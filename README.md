@@ -2,7 +2,7 @@
 
 > Status do projeto: Concluído! :white_check_mark:
 
-No projeto foi criado uma API para uma livraria utilizando NodeJs e demais ferramentas!
+No projeto foi criado uma API para uma livraria utilizando NodeJs!
 
 <h2>O que foi trabalhado:</h2>
 
